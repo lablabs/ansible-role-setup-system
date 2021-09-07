@@ -48,6 +48,7 @@ apt_server_packages:
   - tmux
   - vim
   - zsh
+  - acl
 
 apt_server_packages_kernel: []
 apt_additional_packages: []
